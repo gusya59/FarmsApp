@@ -1,0 +1,13 @@
+.farmListHeader {
+    background-color: Rgb(0, 188, 212);
+    margin-left: 8%;
+    margin-right: 8%;
+    margin-bottom: 2%;
+    border: 2px solid rgb(241, 239, 239);
+}
+
+.subText {
+    color: whitesmoke;
+    font-size: 150%;
+    font-weight: bold;
+}

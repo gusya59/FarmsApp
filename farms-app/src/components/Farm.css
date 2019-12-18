@@ -1,0 +1,13 @@
+.farms {
+    background-color: Rgb(0, 188, 212);
+    color: whitesmoke;
+    font-weight: bold;
+    flex-wrap: 'wrap';
+    overflow: 'hidden';
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: -2%;
+    border: 2px solid rgb(241, 239, 239);
+    font-size: 30%;
+    height: 20%;
+}

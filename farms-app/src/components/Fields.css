@@ -1,0 +1,17 @@
+.fields {
+    color: grey;
+    flex-wrap: 'wrap';
+    overflow: 'hidden';
+    margin-left: -10%;
+    margin-right: -10%;
+    margin-top: -1.1%;
+    margin-bottom: -1.1%;
+    font-size: 20%;
+    height: 20%;
+    width: 100%;
+}
+
+.fieldIcon {
+    margin-left: 10%;
+    margin-right: 10%;
+}
