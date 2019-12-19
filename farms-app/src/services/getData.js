@@ -30,7 +30,7 @@ export async function getMethod(url, params) {
         method: 'GET',
         url: url,
         params: params,
-        timeout: 2000,
+        timeout: 5000,
         headers: {
             'X-User-Api-Token': localStorage.getItem('token')
         }
